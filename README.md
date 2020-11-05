@@ -1,4 +1,4 @@
-# miaosha
+# 商品秒杀项目
 sprinboot+mybatis
 ## 配置
 ```
