@@ -1,6 +1,8 @@
 package com.example.miaosha.response;
 
 public class CommReturnType {
+  private String status;
+  private Object data;
   public String getStatus() {
     return status;
   }
@@ -30,6 +32,5 @@ public class CommReturnType {
     type.setData(result);
     return type;
   }
-  private String status;
-  private Object data;
+
 }
